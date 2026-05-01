@@ -1,0 +1,8 @@
+clip-by-openai
+torch torchvision
+pillow
+scikit-learn
+pytesseract
+nltk
+streamlit
+pickle5  # If Python 3.8+
